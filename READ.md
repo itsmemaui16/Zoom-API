@@ -65,3 +65,4 @@ App will be available at `http://localhost:5500`.
 - Redirect mismatch: check `REDIRECT_URI` in both `.env` and Zoom app settings.
 - Token errors: verify client ID/secret and that you re-authorize after scope changes.
 
+
